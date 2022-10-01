@@ -16,6 +16,6 @@ I have always wanted to start a tech blog, but I kept putting it off. I finally 
 
 ## Website/blog setup 
 
-Since I'm not that well-versed in web development or front-end development in general, I decided to just use Jekyll and GitHub pages to host my blog ([Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme).  
+Since I'm not that well-versed in web development or front-end development in general, I decided to just use Jekyll ([Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme) and GitHub Pages to host my blog.  
 
 
