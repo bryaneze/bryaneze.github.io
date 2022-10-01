@@ -3,7 +3,7 @@ layout: post
 title: "Initial commit"
 author: "Bryan Eng"
 categories: journal
-tags: [documentation,sample]
+tags: [lifestyle]
 image: setup.jpg
 ---
 
