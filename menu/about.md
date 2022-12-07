@@ -7,8 +7,7 @@ permalink: /about
 
 ### Education/ Experience 
 
-I'm a final-year computer science student @ Nanyang Technological University (NTU), and I'm currently serving my internship at [HackerTrail](https://www.linkedin.com/company/hackertrail) as a Software Developer. 
-
+I graduated with a Bachelor's in Computer Science with a focus on Artificial Intelligence from Nanyang Technological University (NTU) and I recently completed an internship (July '22 - Dec '22) as a software developer at HackerTrail, a tech-HR firm.
 
 
 ### Interests
